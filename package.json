@@ -1,0 +1,15 @@
+{
+  "name": "sast-node",
+  "version": "1.0.0",
+  "description": "A Simple Node.js application using Express framework. This project is a proof of concept (poc) for setting up a CI/CD pipeline with Jenkins and integrating SAST (Static Application Security Testing)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
